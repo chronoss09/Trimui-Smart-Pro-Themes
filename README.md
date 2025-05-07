@@ -13,6 +13,14 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Trimui-Smart-Pro-Themes" width="120"></a>
 </p>
 
+### Installation des thèmes :
+
+1. Télécharger Theme Manager, disponible [ici.](https://github.com/Leviathanium/NextUI-Theme-Manager) 
+2. Télécharger le thème de votre choix.
+3. Décompressez le dossier __".theme"__ et placez-le dans __"Tools/tg5040/Theme-Manager.pak/Themes"__ sur votre carte SD.
+4. Ouvrez l'application Theme Manager dans le menu Tools et accédez à __"Installed Themes"__
+5. Sélectionnez le thème et appliquez-le !
+
 ## Daijishou Colorfully
 <img src="https://github.com/user-attachments/assets/3044cfc0-44ee-4c1f-bc17-accf7b0f845b" width="600">
 
