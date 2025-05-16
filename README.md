@@ -28,8 +28,10 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Trimui-Smart-Pro-Themes/sepn/total?logo=github&label=GitHub%20Downloads)   
 Téléchargement : [Smart Epic Noir](https://github.com/chronoss09/Trimui-Smart-Pro-Themes/releases/tag/sepn)
 
-## Daijishou Colorfully
-<img src="https://github.com/user-attachments/assets/3044cfc0-44ee-4c1f-bc17-accf7b0f845b" width="600">
+## Daijishou Colorfully (MAJ)
+<img src="https://github.com/user-attachments/assets/3044cfc0-44ee-4c1f-bc17-accf7b0f845b" width="500">
+<img src="https://github.com/user-attachments/assets/07363dcb-80cf-4e10-a88e-4611d926f427" width="500">
+<img src="https://github.com/user-attachments/assets/8411a2d3-28fd-4b63-a4fb-32d09c8682da" width="500">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Trimui-Smart-Pro-Themes/DaiColorfully/total?logo=github&label=GitHub%20Downloads)   
 Téléchargement : [Daijishou Colorfully](https://github.com/chronoss09/Trimui-Smart-Pro-Themes/releases/tag/DaiColorfully)
