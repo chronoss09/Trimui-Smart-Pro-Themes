@@ -21,7 +21,11 @@
 4. Ouvrez l'application Theme Manager dans le menu Tools et accédez à __"Installed Themes"__
 5. Sélectionnez le thème et appliquez-le !
 
-## Brick : Daijishou Colorfully (bientot...)
+## Brick : Daijishou Colorfully
+<img src="https://github.com/user-attachments/assets/0b0e15ab-a468-4a10-b739-0dd934ab8804" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Trimui-Smart-Pro-Themes/daibrick/total?logo=github&label=GitHub%20Downloads)   
+Téléchargement : [Brick : Daijishou Colorfully](https://github.com/chronoss09/Trimui-Smart-Pro-Themes/releases/tag/daibrick)
 
 ## Smart Pro : Smart Epic Noir
 <img src="https://github.com/user-attachments/assets/57359437-5c72-4c8e-86d9-92c76c5a793c" width="400"> <img src="https://github.com/user-attachments/assets/e7d1187e-1a80-4e53-a596-ffa2d9d0e089" width="400">
