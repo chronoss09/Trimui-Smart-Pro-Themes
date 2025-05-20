@@ -21,6 +21,9 @@
 4. Ouvrez l'application Theme Manager dans le menu Tools et accédez à __"Installed Themes"__
 5. Sélectionnez le thème et appliquez-le !
 
+## Daijishou Vivid (en cours...)
+<img src="https://github.com/user-attachments/assets/d0d52501-3d5c-466a-b17c-d9a5e5d8c95f" width="400">
+
 ## Brick : Daijishou Colorfully
 <img src="https://github.com/user-attachments/assets/0b0e15ab-a468-4a10-b739-0dd934ab8804" width="400">
 
