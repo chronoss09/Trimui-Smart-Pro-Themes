@@ -22,7 +22,7 @@
 5. Sélectionnez le thème et appliquez-le !
 
 ## Smart Pro : Daijishou POP!
-<img src="https://github.com/user-attachments/assets/f3a0338e-4c65-45ef-ac2e-904c888593a8" width="400">
+<img src="https://github.com/user-attachments/assets/f3a0338e-4c65-45ef-ac2e-904c888593a8" width="400"> <img src="https://github.com/user-attachments/assets/887582af-6fd6-4675-842f-a5839c725c56" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Trimui-Smart-Pro-Themes/pop!/total?logo=github&label=GitHub%20Downloads)   
 Téléchargement : [Daijishou POP!](https://github.com/chronoss09/Trimui-Smart-Pro-Themes/releases/tag/pop!)
