@@ -24,8 +24,8 @@
 ## Daijishou POP!
 <img src="https://github.com/user-attachments/assets/f3a0338e-4c65-45ef-ac2e-904c888593a8" width="400"> <img src="https://github.com/user-attachments/assets/990d5cd9-677b-4d2e-a2af-bc1f24796993" width="400">
 
-![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Trimui-Smart-Pro-Themes/pop!/total?logo=github&label=GitHub%20Downloads)   
-Téléchargement : [Daijishou POP!](https://github.com/chronoss09/Trimui-Smart-Pro-Themes/releases/tag/pop!)
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Trimui-Smart-Pro-Themes/pop/total?logo=github&label=GitHub%20Downloads)   
+Téléchargement : [Daijishou POP!](https://github.com/chronoss09/Trimui-Smart-Pro-Themes/releases/tag/pop)
 
 ## Daijishou Vivid (en cours...)
 <img src="https://github.com/user-attachments/assets/d0d52501-3d5c-466a-b17c-d9a5e5d8c95f" width="400">
